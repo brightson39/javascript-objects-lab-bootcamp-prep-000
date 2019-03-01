@@ -1,1 +1,3 @@
-var objects = recipes()
+var recipes = {}
+
+
